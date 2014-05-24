@@ -1,4 +1,3 @@
 nettaoproj
 ==========
-Ping Pong test for tcp-nginx-module.
-Use golang lanage.
+Ping Pong test for tcp-nginx-module.Use golang lanage.
